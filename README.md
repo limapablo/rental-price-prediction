@@ -42,7 +42,7 @@ README.md
 
 ## 🚀 Try the App
 
-👉 [Click here to open the app on Streamlit](https://brasilia-rental-price-prediction.streamlit.app/](https://rental-price-prediction-apktbzfvgnenub8uc4bxrv.streamlit.app/)
+👉 [Click here to open the app on Streamlit](https://rental-price-prediction-apktbzfvgnenub8uc4bxrv.streamlit.app/)
 
 > ⚠️ Note: The app may take a few seconds to load because it needs to load the model, dataset, and libraries.
 
